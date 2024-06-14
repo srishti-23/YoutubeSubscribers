@@ -11,7 +11,7 @@ require("dotenv").config();
 // const DATABASE_URL = "mongodb://127.0.0.1:27017/subscribers";
 
 // Cluster URI
-const DATABASE_URL = process.env.DATABASE_URI ||'mongodb+srv://iamsrishtitiwari23:soq68xur9Pr4prY1@utube.jcbfc9j.mongodb.net/';
+const DATABASE_URL = process.env.DATABASE_URI ||'mongodb+srv://iamsrishtitiwari23:soq68xur9Pr4prY1@ac-qiwndzk.jcbfc9j.mongodb.net/?authSource=admin&replicaSet=atlas-146231-shard-0&ssl=true';
 
 //Connect to MongoDB using Mongoose
 mongoose.connect(DATABASE_URL, {
