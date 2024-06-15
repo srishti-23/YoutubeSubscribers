@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha '__tests__/*.js' --reporter mochawesome --recursive  --timeout 60000 --exit",
-    "start": "node src/index.js",
+    "start": "npm start",
     "createDB": "node src/createDatabase.js"
   },
   "author": "AlmaSquad",
