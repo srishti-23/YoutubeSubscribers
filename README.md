@@ -47,7 +47,7 @@ To run this project locally, make sure you have the following installed:
 ## Installation and Run
 1. Clone the repository from GitHub:
     
-     git clone https://github.com/shalu1529/Youtube-Subscribers.git
+     git clone https://github.com/srishti-23/YoutubeSubscribers.git
     
 2. Redirect to the project folder:
     
